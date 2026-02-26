@@ -1,4 +1,4 @@
-# AI Language Translator
+# Language Translator
 
 ## 📌 Project Description
 AI Language Translator is a Python-based desktop application built using Tkinter for the graphical user interface and Googletrans API for real-time language translation.  
