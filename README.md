@@ -21,11 +21,11 @@ The application allows users to enter text, select source and target languages, 
 ## 📂 Project Structure
 LANGUAGE_TRANSLATOR/
 │
-├── main.py
-├── assets/
-│   └── images/
-├── requirements.txt
-└── README.md
+|── main.py                                                                                    
+|── assets/                                  
+    └── images/
+|── requirements.txt
+└──README.md
 
 ## ⚙️ Installation & Setup
 1. Clone the repository  
