@@ -23,8 +23,8 @@ LANGUAGE_TRANSLATOR/
 │																														  
 |── main.py                                                                                                               
 |── assets/                                                                                                               
-    └── images/																										  
-|── requirements.txt																									  
+       └── images/																										  
+|── requirements.txt      																								  
 └──README.md																											 
 
 ## ⚙️ Installation & Setup
